@@ -1,5 +1,5 @@
 [package]
-name = "X-Downloader"
+name = "x_downloader"
 version = "0.1.0"
 edition = "2021"
 
