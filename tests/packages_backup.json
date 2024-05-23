@@ -1,0 +1,15 @@
+{
+  "packages": [
+    "curl",
+    "wget",
+    "vim",
+    "git",
+    "htop",
+    "tree",
+    "jq",
+    "python3",
+    "nodejs",
+    "docker"
+  ]
+}
+
